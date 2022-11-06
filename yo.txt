@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-=======
-hii this is practice session
-<<<<<<< HEAD
-
-THis is added 
-
-second edit
-
-this is 3rd line
-=======
->>>>>>> parent of bad0842 (second commit)
->>>>>>> parent of b5270cc (yo)
+dbvjsb
