@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 E
+=======
+one
+two
+three
+FOUR
+FIVE
+>>>>>>> parent of b127ada (Revert "Revert "second commit"")
